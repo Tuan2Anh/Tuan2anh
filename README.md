@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Tuấn Anh!
+# I'm Tuấn Anh!
 
 ## 🚀 About Me  
 - 🎓 Currently studying at **Phenikaa University**  
@@ -14,8 +14,8 @@
 - Version Control: Git, GitHub  
 
 ## 📫 Connect with me  
-- GitHub: [your_github_username](https://github.com/Tuan2Anh)  
-- Facebook: [your_facebook_profile](https://www.facebook.com/ntuanas.anh) 
+- GitHub: [My_github_username](https://github.com/Tuan2Anh)  
+- Facebook: [My_facebook_profile](https://www.facebook.com/ntuanas.anh) 
 
 
 
