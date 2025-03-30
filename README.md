@@ -1,5 +1,24 @@
 ## Hi there 👋
 
+# 👋 Hi, I'm Tuấn Anh!
+
+## 🚀 About Me  
+- 🎓 Currently studying at **Phenikaa University**  
+- 💻 Passionate about **Website Development**  
+- ⚽🏸🏀 Love playing **football, badminton, and basketball**  
+
+## 🔧 Technologies & Skills  
+- Frontend: HTML, CSS, JavaScript, ReactJS  
+- Backend: Node.js, Python (Flask, Django)  
+- Database: MySQL, PostgreSQL  
+- Version Control: Git, GitHub  
+
+## 📫 Connect with me  
+- GitHub: [your_github_username](https://github.com/Tuan2Anh)  
+- Facebook: [your_facebook_profile](https://www.facebook.com/ntuanas.anh) 
+
+
+
 <!--
 **Tuan2Anh/Tuan2anh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
