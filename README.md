@@ -8,9 +8,9 @@
 - ⚽🏸🏀 Love playing **football, badminton, and basketball**  
 
 ## 🔧 Technologies & Skills  
-- Frontend: HTML, CSS, JavaScript, ReactJS  
-- Backend: Node.js, Python (Flask, Django)  
-- Database: MySQL, PostgreSQL  
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, PHP
+- Database: MySQL
 - Version Control: Git, GitHub  
 
 ## 📫 Connect with me  
